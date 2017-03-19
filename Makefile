@@ -17,6 +17,8 @@ gen_queries: topics
 	python3 gen_queries_titles_syn.py
 	python3 gen_queries_titles_desc_syn.py
 	python3 gen_queries_titles_desc_narr_syn.py
+	python3 gen_queries_titles_lem.py
+	python3 gen_queries_titles_lem_cat.py
 
 queries: gen_queries
 	IndriRunQuery queries/IndriRunQuery.titles > results/titles.trec
@@ -25,6 +27,8 @@ queries: gen_queries
 	IndriRunQuery queries/IndriRunQuery.titles.syn > results/titles.syn.trec
 	IndriRunQuery queries/IndriRunQuery.titles-desc.syn > results/titles-desc.syn.trec
 	IndriRunQuery queries/IndriRunQuery.titles-desc-narr.syn > results/titles-desc-narr.syn.trec
+	IndriRunQuery queries/IndriRunQuery.titles.lem > results/titles.lem.trec
+	IndriRunQuery queries/IndriRunQuery.titles.lem.cat > results/titles.lem.cat.trec
 
 qrels:
 	rm -rf qrels/qrels.adhoc
@@ -38,3 +42,5 @@ eval: qrels
 	./trec_eval qrels/qrels.adhoc results/titles.syn.trec > evals/titles.syn.eval
 	./trec_eval qrels/qrels.adhoc results/titles-desc.syn.trec > evals/titles-desc.syn.eval
 	./trec_eval qrels/qrels.adhoc results/titles-desc-narr.syn.trec > evals/titles-desc-narr.syn.eval
+	./trec_eval qrels/qrels.adhoc results/titles.lem.trec > evals/titles.lem.eval
+	./trec_eval qrels/qrels.adhoc results/titles.lem.cat.trec > evals/titles.lem.cat.eval
