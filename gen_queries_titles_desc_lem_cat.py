@@ -43,13 +43,22 @@ indices_path = os.path.join(my_path, 'indices')
 infile_path = os.path.join(my_path, 'topics/topics.trec')
 
 # the query file will be written to the same directory as the script
-outfile_path = os.path.join(my_path, 'queries/IndriRunQuery.titles.lem.cat')
+outfile_path = os.path.join(my_path, 'queries/IndriRunQuery.titles-desc.lem.cat')
 
 # regular expression for matching the title line
 title_re = re.compile(r"<title>(.*)")
 
+# regular expression for matching the description line
+desc_re = re.compile(r"<desc>")
+
+# regular expression for matching an empty line
+empty_line_re = re.compile(r"\s*$")
+
 # the ascending number of the query
 number = 301
+in_desc = False
+title = ''
+desc = ''
 
 with open(outfile_path, 'w') as outfile:
     with open(infile_path, 'r') as infile:
@@ -61,13 +70,11 @@ with open(outfile_path, 'w') as outfile:
             '<trecFormat>true</trecFormat>\n'])
 
         for line in infile:
-            title_match = re.match(title_re, line)
-            if title_match:
-                title = remove_special_chars(title_match.group(1).strip())
-                text = title
+            if in_desc and re.match(empty_line_re, line):
+                text = remove_special_chars(title + desc)
                 text = text.lower()
 
-                #take the title and split its words
+                #take the text and split its words
                 words = nltk.word_tokenize(text)
                 text = ''
                 #identify if the word is noun,verb,adjective etc
@@ -76,7 +83,6 @@ with open(outfile_path, 'w') as outfile:
                 # word is a tuple
                 for word in words:
                     synonyms = []
-
                     # NN = noun,singular
                     # NNS = noun,plural
                     if word[1] == 'NN' or word[1]=='NNS':
@@ -110,6 +116,16 @@ with open(outfile_path, 'w') as outfile:
                     '<number>{0}</number> '.format(number),
                     '<text>{0}</text> '.format(text),
                     '</query>\n'])
-
+                in_desc = False
+                title = ''
+                desc = ''
                 number += 1
+            elif in_desc:
+                desc += ' ' + line.strip()
+            elif re.match(desc_re, line):
+                in_desc = True
+            else:
+                title_match = re.match(title_re, line)
+                if title_match:
+                    title = title_match.group(1).strip()
     outfile.write('</parameters>\n')
