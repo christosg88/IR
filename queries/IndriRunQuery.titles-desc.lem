@@ -1,5 +1,5 @@
 <parameters>
-<index>/home/amalia/tmp/IR/indices</index>
+<index>/home/night/IR/indices</index>
 <rule>method:dirichlet,mu:1000</rule>
 <count>1000</count>
 <trecFormat>true</trecFormat>
