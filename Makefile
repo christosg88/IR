@@ -1,6 +1,6 @@
 .PHONY: all index topics gen_queries queries qrels eval
 
-all: index queries qrels
+all: index queries eval
 
 index:
 	IndriBuildIndex IndriBuildIndex.param
@@ -14,11 +14,17 @@ gen_queries: topics
 	python3 gen_queries_titles.py
 	python3 gen_queries_titles_desc.py
 	python3 gen_queries_titles_desc_narr.py
+	python3 gen_queries_titles_syn.py
+	python3 gen_queries_titles_desc_syn.py
+	python3 gen_queries_titles_desc_narr_syn.py
 
 queries: gen_queries
 	IndriRunQuery queries/IndriRunQuery.titles > results/titles.trec
 	IndriRunQuery queries/IndriRunQuery.titles-desc > results/titles-desc.trec
 	IndriRunQuery queries/IndriRunQuery.titles-desc-narr > results/titles-desc-narr.trec
+	IndriRunQuery queries/IndriRunQuery.titles.syn > results/titles.syn.trec
+	IndriRunQuery queries/IndriRunQuery.titles-desc.syn > results/titles-desc.syn.trec
+	IndriRunQuery queries/IndriRunQuery.titles-desc-narr.syn > results/titles-desc-narr.syn.trec
 
 qrels:
 	rm -rf qrels/qrels.adhoc
@@ -29,3 +35,6 @@ eval: qrels
 	./trec_eval qrels/qrels.adhoc results/titles.trec > evals/titles.eval
 	./trec_eval qrels/qrels.adhoc results/titles-desc.trec > evals/titles-desc.eval
 	./trec_eval qrels/qrels.adhoc results/titles-desc-narr.trec > evals/titles-desc-narr.eval
+	./trec_eval qrels/qrels.adhoc results/titles.syn.trec > evals/titles.syn.eval
+	./trec_eval qrels/qrels.adhoc results/titles-desc.syn.trec > evals/titles-desc.syn.eval
+	./trec_eval qrels/qrels.adhoc results/titles-desc-narr.syn.trec > evals/titles-desc-narr.syn.eval

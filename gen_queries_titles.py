@@ -5,7 +5,7 @@ import re
 
 def remove_special_chars(s):
     # replace more than one characters
-    s = s.replace('\'s', '').replace('  ', ' ')
+    s = s.replace('\'s', '').replace('  ', ' ').replace('_', ' ')
 
     # replace one character
     translation = str.maketrans({
@@ -61,7 +61,7 @@ with open(outfile_path, 'w') as outfile:
             title_match = re.match(title_re, line)
             if title_match:
                 title = remove_special_chars(title_match.group(1).strip())
-
+                text = title
                 outfile.writelines([
                     '<query> ',
                     '<type>indri</type> ',

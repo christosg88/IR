@@ -5,7 +5,7 @@ import re
 
 def remove_special_chars(s):
     # replace more than one characters
-    s = s.replace('\'s', '').replace('  ', ' ')
+    s = s.replace('\'s', '').replace('  ', ' ').replace('_', ' ')
 
     # replace one character
     translation = str.maketrans({
@@ -68,11 +68,12 @@ with open(outfile_path, 'w') as outfile:
 
         for line in infile:
             if in_desc and re.match(empty_line_re, line):
+                text = remove_special_chars(title + desc)
                 outfile.writelines([
                     '<query> ',
                     '<type>indri</type> ',
                     '<number>{0}</number> '.format(number),
-                    '<text>{0}</text> '.format(remove_special_chars(title + desc)),
+                    '<text>{0}</text> '.format(text),
                     '</query>\n'])
                 in_desc = False
                 title = ''
