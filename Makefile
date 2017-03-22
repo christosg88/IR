@@ -3,7 +3,7 @@
 all: index queries eval
 
 index:
-	IndriBuildIndex IndriBuildIndex.param
+	IndriBuildIndex -memory=8G -index=${HOME}/IR/indices -corpus.path=${HOME}/IR/corpora -corpus.class=trectext -stemmer.name=Krovetz
 
 topics:
 	rm -rf topics/topics.trec
