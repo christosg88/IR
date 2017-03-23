@@ -1,0 +1,156 @@
+<parameters>
+<index>/home/amalia/IR/indices</index>
+<rule>method:dirichlet,mu:1000</rule>
+<count>1000</count>
+<trecFormat>true</trecFormat>
+<query> <type>indri</type> <number>301</number> <text>{external international} crime identify that {participate enter} in {external international} {activity action} the {activity action} and if {potential possible} collaborating and the </text> </query>
+<query> <type>indri</type> <number>302</number> <text>poliomyelitis and {military post post} {poliomyelitis polio} the disease of poliomyelitis {poliomyelitis polio} under control in the {world populace} </text> </query>
+<query> <type>indri</type> <number>303</number> <text>hubble telescope {accomplishment achievements} identify {accomplishment skill accomplishments} of the hubble telescope since it in 1991 </text> </query>
+<query> <type>indri</type> <number>304</number> <text>{queer endanger endangered} {coinage species} {mammals mammal} {compose compile} a {list tilt} of {mammals mammal} that to {be cost} {queer endanger endangered} identify their habitat and if {potential possible} {specify assign} what them </text> </query>
+<query> <type>indri</type> <number>305</number> <text>most dangerous which the most crashworthy and least crashworthy passenger </text> </query>
+<query> <type>indri</type> <number>306</number> <text>african civilian how many civilian non {combatant combatants} have in the in africa </text> </query>
+<query> <type>indri</type> <number>307</number> <text>hydroelectric {projects undertaking project} identify hydroelectric {projects undertaking project} or under construction by {country area} and location detailed description of nature extent {purpose function} and desirable </text> </query>
+<query> <type>indri</type> <number>308</number> <text>implant dentistry what the and or {disadvantages disadvantage} of tooth {implant implants} </text> </query>
+<query> <type>indri</type> <number>309</number> <text>{rap pat} and crime evidence that {rap pat} music a effect on {people citizenry} </text> </query>
+<query> <type>indri</type> <number>310</number> <text>radio and {genius brain} cancer evidence that radio from radio or car affect {genius brain} cancer {happening occurrence} </text> </query>
+<query> <type>indri</type> <number>311</number> <text>espionage document will {discuss discourse hash out} the {theft larceny} of {deal trade} along with the of information {deal trade} business {datum data} from patent {deal trade} or {psychoanalysis analysis} of a {competitor rival} </text> </query>
+<query> <type>indri</type> <number>312</number> <text>hydroponics document will {discuss discourse hash out} the {science skill} of in {body of water water} or some substance than {soil land} </text> </query>
+<query> <type>indri</type> <number>313</number> <text>levitation {magnetic levitation maglev} of levitation </text> </query>
+<query> <type>indri</type> <number>314</number> <text>vegetation {harvest harvesting} of vegetation such as {algae alga} seaweed and kelp for food and drug </text> </query>
+<query> <type>indri</type> <number>315</number> <text>unexplained highway accidents how many highway {accident accidents} there each year that not as to {induce cause} </text> </query>
+<query> <type>indri</type> <number>316</number> <text>polygamy polyandry polygyny a look at the {roots solution} and prevalence of polygamy in the {world populace} today </text> </query>
+<query> <type>indri</type> <number>317</number> <text>{unsolicited unasked} {faxes facsimile} have by the {federal communications commission fcc} {debris junk} facsimile {fax facsimile} if {sol so} they </text> </query>
+<query> <type>indri</type> <number>318</number> <text>best retirement {country area} aside from the {joined united} which {country area} the {living animation} conditions and quality of life for a us retiree </text> </query>
+<query> <type>indri</type> <number>319</number> <text>fuel what {research inquiry} ongoing for fuel </text> </query>
+<query> <type>indri</type> <number>320</number> <text>{submarine undersea} fiber {ocular optic} cable {fiber roughage} {ocular optic} {link connection} around the {globe earth} flag will {be cost} the {world populace} {submarine undersea} {fiber roughage} {ocular optic} cable who and how the {technology engineering} on this system what exist </text> </query>
+<query> <type>indri</type> <number>321</number> <text>in {parliaments fantan parliament} {apposite pertinent} will reflect the fact that continue to {be cost} poorly in {parliaments fantan parliament} across the {world populace} and the {opening gap} in {office power} between the very particularly in the third {world populace} </text> </query>
+<query> <type>indri</type> <number>322</number> <text>{external international} {art artwork} crime isolate {example instances case} of fraud or embezzlement in the {external international} {art artwork} {deal trade} </text> </query>
+<query> <type>indri</type> <number>323</number> <text>journalistic plagiarism {determine find} {example instances case} of plagiarism in the and journalistic </text> </query>
+<query> <type>indri</type> <number>324</number> <text>argentine british {relation relations} {define specify} argentine and british {external international} {relation relations} </text> </query>
+<query> <type>indri</type> <number>325</number> <text>cult lifestyles {report describe} a cult by name and identify the cult in their life </text> </query>
+<query> <type>indri</type> <number>326</number> <text>ferry any {report composition} of a ferry sinking where 100 or more {people citizenry} their </text> </query>
+<query> <type>indri</type> <number>327</number> <text>slavery identify a {country area} or a city where there evidence of slavery in the eighties or nineties </text> </query>
+<query> <type>indri</type> <number>328</number> <text>pope identify an {person individual} that by the pope </text> </query>
+<query> <type>indri</type> <number>329</number> <text>mexican air {pollution befoulment} mexico city the air {pollution befoulment} in the {world populace} pertinent would contain the {step steps} mexican have to {battle combat} this situation </text> </query>
+<query> <type>indri</type> <number>330</number> <text>iran iraq cooperation this {query question} for of cooperation or between iran and iraq or {ways way} in which the two could {be cost} allies </text> </query>
+<query> <type>indri</type> <number>331</number> <text>{world populace} bank criticism what have of {world populace} bank or {personnel force personnel department} </text> </query>
+<query> <type>indri</type> <number>332</number> <text>income tax evasion this {query question} for {probe investigations investigation} that have {targeted target} evaders of us income tax </text> </query>
+<query> <type>indri</type> <number>333</number> <text>{antibiotics antibiotic} bacteria disease determine the why bacteria to {be cost} the war against {antibiotics antibiotic} and {antibiotics antibiotic} now less in {disease diseases} than they in the past </text> </query>
+<query> <type>indri</type> <number>334</number> <text>export cryptography determine the {utility usefulness} and {effectiveness potency} of to {maintain keep} export on {encryption encoding} software </text> </query>
+<query> <type>indri</type> <number>335</number> <text>{adoptive adopted} biological {parents parent} identify the and to those which {originate arise} in the among biological {parents parent} {adoptive adopted} {parents parent} and the child or </text> </query>
+<query> <type>indri</type> <number>336</number> <text>bear a relevant document would {discuss discourse hash out} the frequency of bear worldwide and the {potential possible} for this {beast savage} behavior </text> </query>
+<query> <type>indri</type> <number>337</number> <text>viral hepatitis what {research inquiry} on viral hepatitis and what {advancement progress} in its {discussion treatment} </text> </query>
+<query> <type>indri</type> <number>338</number> <text>risk of aspirin what adverse {impression effects} have {people citizenry} while aspirin repeatedly </text> </query>
+<query> <type>indri</type> <number>339</number> <text>alzheimer drug {discussion treatment} what {drug drugs} in the {discussion treatment} of alzheimer disease and how successful they </text> </query>
+<query> <type>indri</type> <number>340</number> <text>{land estate} mine ban identify any to {motivate propel} the of the {world populace} toward a treaty the production transfer and {use habit} of {land estate} {mine mines} </text> </query>
+<query> <type>indri</type> <number>341</number> <text>airport security a relevant document would {discuss discourse hash out} how government to {audit size up scrutinize} {passenger passengers} and {luggage baggage} on {external international} and to step up of all carry on baggage </text> </query>
+<query> <type>indri</type> <number>342</number> <text>diplomatic {expulsion ejection} the end of the war to have {contest competition} and to {beget generate} {friction clash} between as {attempts attack attempt} by diplomatic {personnel force personnel department} to {get acquire} {deal trade} and {technology engineering} information or to {obtain receive} information on highly {projects undertaking project} identify {example instances case} where {attempts attack attempt} have by {personnel force personnel department} with diplomatic {status condition} to {obtain receive} information of this nature </text> </query>
+<query> <type>indri</type> <number>343</number> <text>police identify {example instances case} where a civilian policeman either during performance of his duty or because of association with this occupation eg for the {artillery gun} to {prevent keep} from {testify testifying} etc </text> </query>
+<query> <type>indri</type> <number>344</number> <text>of e mail the {availability handiness} of e mail to many {people citizenry} through their job or school affiliation for many {efficiency efficiencies} in {communications communication} but also the opportunity for what {step steps} have {world populace} by those the {cost monetary value} of e mail to prevent </text> </query>
+<query> <type>indri</type> <number>345</number> <text>{overseas oversea abroad} tobacco health primarily in the us have {induce cause caused} in tobacco here but the {impact impingement} {induce cause caused} us tobacco to {look expect} overseas for {customers customer} what {impact impingement} have the health and overseas </text> </query>
+<query> <type>indri</type> <number>346</number> <text>educational there long a {call cry} for in us education these frequently the superiority of school there many outside the us which have for pre {adolescent teen} {students student scholar} if so which those and what have {set determine} </text> </query>
+<query> <type>indri</type> <number>347</number> <text>wildlife extinction the owl episode in {united states america} {highlighted foreground highlight} us to prevent the extinction of wildlife {coinage species} what not well the {effort attempt} of to prevent the {death demise} of {coinage species} native to their what have to prevent such </text> </query>
+<query> <type>indri</type> <number>348</number> <text>agoraphobia the fear of or public agoraphobia a {far flung widespread} {disorderliness disorder} or relatively </text> </query>
+<query> <type>indri</type> <number>349</number> <text>{metabolism metamorphosis} document will {discuss discourse hash out} the chemical necessary to {prevent keep} {living animation} and or energy </text> </query>
+<query> <type>indri</type> <number>350</number> <text>health and {computer calculator} it hazardous to the health of {individuals individual person} to work with {computer calculator} on a {casual daily} {footing basis} </text> </query>
+<query> <type>indri</type> <number>351</number> <text>falkland petroleum exploration what information on petroleum exploration in the south atlantic near the falkland {islands island} </text> </query>
+<query> <type>indri</type> <number>352</number> <text>british chunnel {impact affect} what {impact impingement} the chunnel on the british economy and or the life {style expressive style} of the british </text> </query>
+<query> <type>indri</type> <number>353</number> <text>antarctica exploration identify {systematic taxonomic} and scientific {probe investigations investigation} of antarctica current or </text> </query>
+<query> <type>indri</type> <number>354</number> <text>{diarist journalist} identify {example instances case} where a {diarist journalist} put at risk eg or hostage in the performance of his {work employment} </text> </query>
+<query> <type>indri</type> <number>355</number> <text>ocean remote identify {discussing discourse hash out} the {development exploitation} and application of spaceborne ocean {remote remote control} </text> </query>
+<query> <type>indri</type> <number>356</number> <text>postmenopausal estrogen {united kingdom britain} identify {discussing discourse hash out} the {use habit} of estrogen by postmenopausal in {united kingdom britain} </text> </query>
+<query> <type>indri</type> <number>357</number> <text>{waters body of water} {dispute challenge quarrel} identify {discussing discourse hash out} {external international} boundary {dispute disputes} relevant to the 200 mile or 12 mile {waters body of water} subsequent to the passing of the {external international} convention on the {law police} of the sea </text> </query>
+<query> <type>indri</type> <number>358</number> <text>blood alcohol fatalities what {role function} blood alcohol {playing period play} in {automobile car} accident {fatalities fatality} </text> </query>
+<query> <type>indri</type> <number>359</number> <text>{reciprocal common mutual} {investment company fund} there and of {reciprocal common mutual} {investment company fund} performance </text> </query>
+<query> <type>indri</type> <number>360</number> <text>drug legalization what the if any of drug legalization </text> </query>
+<query> <type>indri</type> <number>361</number> <text>clothing {sweatshop sweatshops} identify that {discuss discourse hash out} clothing {sweatshop sweatshops} </text> </query>
+<query> <type>indri</type> <number>362</number> <text>{smuggling smuggle} identify {incident incidents} of {smuggling smuggle} </text> </query>
+<query> <type>indri</type> <number>363</number> <text>{exile transportation} {burrow tunnel} what have in {tunnels tunnel burrow} for {exile transportation} </text> </query>
+<query> <type>indri</type> <number>364</number> <text>rabies identify {discussing discourse hash out} where rabies have and what if anything about it </text> </query>
+<query> <type>indri</type> <number>365</number> <text>{el elevation elevated railway} nino what {impression effects} have {assign attributed impute} to el nino </text> </query>
+<query> <type>indri</type> <number>366</number> <text>{cyanide nitrile} what the or of {cyanide nitrile} or its </text> </query>
+<query> <type>indri</type> <number>367</number> <text>{plagiarism piracy} what {example instances case} have there of {fashioned fashion} {plagiarism piracy} the boarding or control of {gravy boat boat boats} </text> </query>
+<query> <type>indri</type> <number>368</number> <text>in vitro fertilization identify that {discuss discourse hash out} in vitro fertilization </text> </query>
+<query> <type>indri</type> <number>369</number> <text>anorexia nervosa bulimia what the and of anorexia nervosa and bulimia </text> </query>
+<query> <type>indri</type> <number>370</number> <text>food drug what the with the quality and processing of food {beverage beverages} or {drug drugs} </text> </query>
+<query> <type>indri</type> <number>371</number> <text>health {policy insurance} holistic what the extent of health {policy insurance} coverage of holistic or non traditional {music medicine} for {example model} acupuncture </text> </query>
+<query> <type>indri</type> <number>372</number> <text>american casino identify that {discuss discourse hash out} the {growth increase} of american casino {gambling gamble} </text> </query>
+<query> <type>indri</type> <number>373</number> <text>{encryption encoding} equipment export identify that {discuss discourse hash out} the of the {joined united} the export of {encryption encoding} equipment </text> </query>
+<query> <type>indri</type> <number>374</number> <text>nobel {loot prize} identify and {provide supply} background information on nobel {loot prize} </text> </query>
+<query> <type>indri</type> <number>375</number> <text>hydrogen energy what the {status condition} of {research inquiry} on hydrogen as a feasible energy {source reservoir} </text> </query>
+<query> <type>indri</type> <number>376</number> <text>{world populace} court what {type types} of by the {world populace} court {external international} court of justice </text> </query>
+<query> <type>indri</type> <number>377</number> <text>cigar {smoke fume smoking} identify that {discuss discourse hash out} the {renewed regenerate reincarnate} popularity of cigar {smoke smoking} </text> </query>
+<query> <type>indri</type> <number>378</number> <text>euro opposition identify that {discuss discourse hash out} opposition to the {initiation introduction} of the euro the european currency </text> </query>
+<query> <type>indri</type> <number>379</number> <text>mainstreaming identify that {discuss discourse hash out} mainstreaming with or </text> </query>
+<query> <type>indri</type> <number>380</number> <text>{fleshiness obesity} {discussion treatment} identify that {discuss discourse hash out} {discussion treatment} of {fleshiness obesity} </text> </query>
+<query> <type>indri</type> <number>381</number> <text>{music medicine} what of {music medicine} in the {discussion treatment} of {illness illnesses} or {disease diseases} and how successful they </text> </query>
+<query> <type>indri</type> <number>382</number> <text>hydrogen fuel {car automobiles} identify that {discuss discourse hash out} the {use habit} of hydrogen as a fuel for piston {car automobiles} storage a concern or the {use habit} of hydrogen in fuel to {beget generate} electricity to drive the car </text> </query>
+<query> <type>indri</type> <number>383</number> <text>illness {drug drugs} identify {drug drugs} in the {discussion treatment} of illness </text> </query>
+<query> <type>indri</type> <number>384</number> <text>{space outer space} station moon identify that {discuss discourse hash out} the building of a {space outer space} station with the {purpose intent} of {colonizing colonize} the moon </text> </query>
+<query> <type>indri</type> <number>385</number> <text>hybrid fuel identify that {discuss discourse hash out} the current {status condition} of hybrid {automobile car} ie by something than gasoline only </text> </query>
+<query> <type>indri</type> <number>386</number> <text>{teaching teach} disabled what {method acting method methods} currently utilized or in the {teaching education} of disabled </text> </query>
+<query> <type>indri</type> <number>387</number> <text>radioactive waste identify that {discuss discourse hash out} and {ways way} to permanently {handle wield} long lived radioactive </text> </query>
+<query> <type>indri</type> <number>388</number> <text>{soil land} enhancement identify that {discuss discourse hash out} the {use habit} of {fertilizer fertilizers} {composted compost} sludge ash vegetable waste {microorganism microorganisms} etc as {soil land} {foil enhancers} </text> </query>
+<query> <type>indri</type> <number>389</number> <text>illegal {technology engineering} transfer what {entities entity} have {accuse charge accused} of illegal {technology engineering} transfer such as their formulas etc directly or indirectly to {entities entity} for than {peaceful passive} </text> </query>
+<query> <type>indri</type> <number>390</number> <text>orphan {drug drugs} {determine find} that {discuss discourse hash out} with so orphan {drug drugs} that {drug drugs} that {treat dainty} {disease diseases} relatively few {people citizenry} </text> </query>
+<query> <type>indri</type> <number>391</number> <text>{radius r} and {d five hundred} drug identify that {discuss discourse hash out} the {impact impingement} of the {cost monetary value} of {research inquiry} and {development exploitation} {radius r} and {d five hundred} on the price of {drug drugs} </text> </query>
+<query> <type>indri</type> <number>392</number> <text>robotics what the of robotics in the {world populace} today </text> </query>
+<query> <type>indri</type> <number>393</number> <text>{mercifulness mercy} identify that {discuss discourse hash out} mercy </text> </query>
+<query> <type>indri</type> <number>394</number> <text>home identify that {discuss discourse hash out} the education of at home home schooling </text> </query>
+<query> <type>indri</type> <number>395</number> <text>tourism {provide supply} of successful {attempts attack attempt} to attract tourism as a means to {better improve} a economy </text> </query>
+<query> <type>indri</type> <number>396</number> <text>building syndrome identify that {discuss discourse hash out} building syndrome or building related {illness illnesses} </text> </query>
+<query> <type>indri</type> <number>397</number> <text>{automobile car} identify that {discuss discourse hash out} the for {automobile car} </text> </query>
+<query> <type>indri</type> <number>398</number> <text>europe arsenal identify that {discuss discourse hash out} the european cut as it to the dismantling of europe arsenal </text> </query>
+<query> <type>indri</type> <number>399</number> <text>oceanographic identify that {discuss discourse hash out} the or equipment of oceanographic </text> </query>
+<query> <type>indri</type> <number>400</number> <text>amazon rain forest what by south american to {preserve continue} the amazon rain forest </text> </query>
+<query> <type>indri</type> <number>401</number> <text>germany what {language speech} and {impede obstruct} the {integration consolidation} of in germany </text> </query>
+<query> <type>indri</type> <number>402</number> <text>behavioral genetics what in the {battlefield field} of behavioral genetics the {study discipline} of the {relative proportional} influence of and environmental on an behavior or personality </text> </query>
+<query> <type>indri</type> <number>403</number> <text>osteoporosis {determine find} information on the {impression effects} of the dietary of potassium magnesium and and {vegetable vegetables} as of bone mineral {concentration density} in {elderly aged} and thus {prevent preventing} osteoporosis bone decay </text> </query>
+<query> <type>indri</type> <number>404</number> <text>ireland peace how often the peace in ireland or as a {solution result} of of {violence ferocity} </text> </query>
+<query> <type>indri</type> <number>405</number> <text>cosmic what unexpected or unexplained cosmic or {phenomena phenomenon} such as radiation and supernova or {comets comet} have {detect detected} </text> </query>
+<query> <type>indri</type> <number>406</number> <text>parkinson disease what to treat the {symptom symptoms} of parkinson disease and {prevent keep} the patient as long as {potential possible} </text> </query>
+<query> <type>indri</type> <number>407</number> <text>{poaching poach} wildlife what the {impact impingement} of {poaching poach} on the {world populace} wildlife </text> </query>
+<query> <type>indri</type> <number>408</number> <text>what {hurricanes hurricane} and {typhoon typhoons} have {induce cause caused} property damage and loss of life </text> </query>
+<query> <type>indri</type> <number>409</number> <text>pan 103 what have from the destruction of pan flight 103 over lockerbie scotland on december 21 1988 </text> </query>
+<query> <type>indri</type> <number>410</number> <text>schengen agreement who in the schengen agreement to {eliminate obviate} {border molding} in europe and what {do cause} they hope to {carry through achieve accomplish} </text> </query>
+<query> <type>indri</type> <number>411</number> <text>{salvaging salvage} shipwreck treasure {determine find} information on shipwreck {salvaging salvage} the recovery or attempted recovery of treasure from {ships ship} </text> </query>
+<query> <type>indri</type> <number>412</number> <text>airport security what security in effect or to {go travel} into effect in {airports airport} </text> </query>
+<query> <type>indri</type> <number>413</number> <text>steel production what {method acting method methods} of steel </text> </query>
+<query> <type>indri</type> <number>414</number> <text>cuba {carbohydrate sugar} {exports export} how much {carbohydrate sugar} cuba export and which import it </text> </query>
+<query> <type>indri</type> <number>415</number> <text>{drug drugs} triangle what about drug trafficking in the triangle the area where {burma myanmar} thailand and laos meet </text> </query>
+<query> <type>indri</type> <number>416</number> <text>three {project stick out} what the {status condition} of the three {project stick out} </text> </query>
+<query> <type>indri</type> <number>417</number> <text>creativity {determine find} {ways way} of creativity </text> </query>
+<query> <type>indri</type> <number>418</number> <text>quilts income in what {ways way} have {quilts quilt} to {beget generate} income </text> </query>
+<query> <type>indri</type> <number>419</number> <text>recycle {automobile car} what have for {automobile car} as a means of tire recycling </text> </query>
+<query> <type>indri</type> <number>420</number> <text>{carbon paper carbon} monoxide how {far flung widespread} carbon monoxide on a {ball shaped global} scale </text> </query>
+<query> <type>indri</type> <number>421</number> <text>waste disposal how the disposal of waste {carry through achieve accomplished} by management throughout the {world populace} </text> </query>
+<query> <type>indri</type> <number>422</number> <text>{art artwork} what {incident incidents} have there of stolen or {art artwork} </text> </query>
+<query> <type>indri</type> <number>423</number> <text>milosevic mirjana markovic {determine find} to milosevic wife mirjana markovic </text> </query>
+<query> <type>indri</type> <number>424</number> <text>{suicide suicides} give of alleged {suicide suicides} that suspicion of the death actually murder </text> </query>
+<query> <type>indri</type> <number>425</number> <text>{counterfeiting forge} money what counterfeiting of money in {time times} </text> </query>
+<query> <type>indri</type> <number>426</number> <text>{law police} enforcement {provide supply} information on the {use habit} of worldwide for {law police} enforcement </text> </query>
+<query> <type>indri</type> <number>427</number> <text>uv damage {eye eyes} {determine find} that {discuss discourse hash out} the damage ultraviolet uv light from the sun can {do cause} to {eye eyes} </text> </query>
+<query> <type>indri</type> <number>428</number> <text>{parentage birth} {rate rates} {do cause} any than the us and {taiwan china} have a {parentage birth} rate </text> </query>
+<query> <type>indri</type> <number>429</number> <text>{legionnaire legionnaires} disease identify {outbreak outbreaks} of {legionnaire legionnaires} disease </text> </query>
+<query> <type>indri</type> <number>430</number> <text>{killer cause of death} bee identify {example instances case} of on {world humans homo} by africanized {killer cause of death} {bees bee} </text> </query>
+<query> <type>indri</type> <number>431</number> <text>{robotic automatic} {technology engineering} what the in {robotic automatic} {technology engineering} </text> </query>
+<query> <type>indri</type> <number>432</number> <text>{profile profiling} {motorist motorists} police {do cause} police use {profile profiling} to {discontinue stop} {motorist motorists} </text> </query>
+<query> <type>indri</type> <number>433</number> <text>greek {doctrine philosophy} stoicism there interest in the greek {doctrine philosophy} of stoicism </text> </query>
+<query> <type>indri</type> <number>434</number> <text>estonia economy what the {country state} of the economy of estonia </text> </query>
+<query> <type>indri</type> <number>435</number> <text>population {growth increase} what have worldwide and what have in population {growth increase} </text> </query>
+<query> <type>indri</type> <number>436</number> <text>{railway railroad track} {accident accidents} what the of {railway railroad track} {accident accidents} throughout the {world populace} </text> </query>
+<query> <type>indri</type> <number>437</number> <text>deregulation gas electric what the experience of residential utility {customers customer} deregulation of gas and </text> </query>
+<query> <type>indri</type> <number>438</number> <text>tourism increase what an {addition increase} in tourism </text> </query>
+<query> <type>indri</type> <number>439</number> <text>scientific what or scientific have </text> </query>
+<query> <type>indri</type> <number>440</number> <text>child {labor movement labor} what {step steps} by or {corporation pot corporations} to {eliminate obviate} {misuse abuse} of child {labor movement labor} </text> </query>
+<query> <type>indri</type> <number>441</number> <text>lyme disease how {do cause} you prevent and treat lyme disease </text> </query>
+<query> <type>indri</type> <number>442</number> <text>{determine find} of selfless {heroic verse heroic} by {individuals individual person} or for the benefit of others or a {lawsuit cause} </text> </query>
+<query> <type>indri</type> <number>443</number> <text>us investment africa what the extent of us government and investment in sub saharan africa </text> </query>
+<query> <type>indri</type> <number>444</number> <text>supercritical {fluid fluids} what the {likely potential} for supercritical {fluid fluids} as an environmental {protection auspices} {measurement measure} </text> </query>
+<query> <type>indri</type> <number>445</number> <text>clergy what besides the {joined united} or have {approve approved} as clergy </text> </query>
+<query> <type>indri</type> <number>446</number> <text>{tourist tourists} {violence ferocity} where {tourist tourists} to {be cost} to of {violence ferocity} {induce cause causing} bodily or death </text> </query>
+<query> <type>indri</type> <number>447</number> <text>stirling engine what and there for the stirling engine </text> </query>
+<query> <type>indri</type> <number>448</number> <text>ship identify {example instances case} in which weather a or factor in the loss of a ship at sea </text> </query>
+<query> <type>indri</type> <number>449</number> <text>{antibiotics antibiotic} ineffectiveness what {induce cause caused} the current ineffectiveness of {antibiotics antibiotic} against and what the prognosis for {drug drugs} </text> </query>
+<query> <type>indri</type> <number>450</number> <text>king hussein peace how a figure over the the jordanian king hussein in {furthering promote foster} peace in the east </text> </query>
+</parameters>

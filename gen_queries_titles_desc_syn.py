@@ -103,13 +103,15 @@ with open(outfile_path, 'w') as outfile:
                     elif word[1]=='VBN' or word[1]=='VB' or  word[1]=='VBD' or word[1]=='VBG' or word[1]=='VBP' or word[1]=='VBZ':
                         synonyms = wn.synsets(word[0], pos=wn.VERB)
 
-                    text += word[0] + ' '
-                    if len(synonyms) > 0:
-                        for synonym in synonyms:
-                            first_synonym = synonym.name().split('.')[0]
-                            if first_synonym != word[0]:
-                                text += first_synonym + ' '
-                                break
+                    synonyms_set = set()
+                    synonyms_set.add(word[0])
+                    for synonym in synonyms:
+                        synonyms_set.add(synonym.name().split('.')[0])
+
+                    if len(synonyms_set) > 1:
+                        text += '{' + ' '.join(synonyms_set) + '} '
+                    else:
+                        text += ' '.join(synonyms_set) + ' '
 
 
                 text = remove_special_chars(text)

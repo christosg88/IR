@@ -6,8 +6,6 @@ import re
 from nltk.corpus import wordnet as wn
 import nltk
 
-from itertools import combinations
-
 def remove_special_chars(s):
     # replace more than one characters
     s = s.replace('\'s', '').replace('  ', ' ').replace('_', ' ')
