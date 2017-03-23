@@ -154,7 +154,7 @@ with open(outfile_path, 'w') as outfile:
                         '<query> ',
                         '<type>indri</type> ',
                         '<number>{0}</number> '.format(number),
-                        '<text>{0}</text> '.format(text),
+                        '<text>{0}</text> '.format(text.rstrip()),
                         '</query>\n'])
                     in_narr = False
                     title = ''

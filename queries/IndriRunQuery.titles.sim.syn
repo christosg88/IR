@@ -1,29 +1,29 @@
 <parameters>
-<index>/home/amalia/IR/indices</index>
+<index>/home/night/IR/indices</index>
 <rule>method:dirichlet,mu:1000</rule>
 <count>1000</count>
 <trecFormat>true</trecFormat>
 <query> <type>indri</type> <number>301</number> <text>{external international} crime</text> </query>
 <query> <type>indri</type> <number>302</number> <text>poliomyelitis and {military post post} {poliomyelitis polio}</text> </query>
 <query> <type>indri</type> <number>303</number> <text>hubble telescope {achievements accomplishment}</text> </query>
-<query> <type>indri</type> <number>304</number> <text>{queer endangered endanger} {coinage species} {mammal mammals}</text> </query>
+<query> <type>indri</type> <number>304</number> <text>{endangered queer endanger} {coinage species} {mammal mammals}</text> </query>
 <query> <type>indri</type> <number>305</number> <text>most dangerous</text> </query>
 <query> <type>indri</type> <number>306</number> <text>african civilian</text> </query>
-<query> <type>indri</type> <number>307</number> <text>hydroelectric {undertaking projects project}</text> </query>
+<query> <type>indri</type> <number>307</number> <text>hydroelectric {projects project undertaking}</text> </query>
 <query> <type>indri</type> <number>308</number> <text>implant dentistry</text> </query>
-<query> <type>indri</type> <number>309</number> <text>{rap pat} and crime</text> </query>
+<query> <type>indri</type> <number>309</number> <text>{pat rap} and crime</text> </query>
 <query> <type>indri</type> <number>310</number> <text>radio and {brain genius} cancer</text> </query>
 <query> <type>indri</type> <number>311</number> <text>espionage</text> </query>
 <query> <type>indri</type> <number>312</number> <text>hydroponics</text> </query>
-<query> <type>indri</type> <number>313</number> <text>levitation {maglev magnetic levitation}</text> </query>
+<query> <type>indri</type> <number>313</number> <text>levitation {magnetic levitation maglev}</text> </query>
 <query> <type>indri</type> <number>314</number> <text>marine vegetation</text> </query>
-<query> <type>indri</type> <number>315</number> <text>unexplained highway {accident accidents}</text> </query>
+<query> <type>indri</type> <number>315</number> <text>unexplained highway {accidents accident}</text> </query>
 <query> <type>indri</type> <number>316</number> <text>polygamy polyandry polygyny</text> </query>
-<query> <type>indri</type> <number>317</number> <text>{unsolicited unasked} {faxes facsimile}</text> </query>
-<query> <type>indri</type> <number>318</number> <text>best retirement {area country}</text> </query>
+<query> <type>indri</type> <number>317</number> <text>{unasked unsolicited} {faxes facsimile}</text> </query>
+<query> <type>indri</type> <number>318</number> <text>best retirement {country area}</text> </query>
 <query> <type>indri</type> <number>319</number> <text>fuel</text> </query>
-<query> <type>indri</type> <number>320</number> <text>{undersea submarine} fiber {ocular optic} cable</text> </query>
-<query> <type>indri</type> <number>321</number> <text>in {parliaments fantan parliament}</text> </query>
+<query> <type>indri</type> <number>320</number> <text>{submarine undersea} fiber {ocular optic} cable</text> </query>
+<query> <type>indri</type> <number>321</number> <text>in {fantan parliament parliaments}</text> </query>
 <query> <type>indri</type> <number>322</number> <text>{external international} {art artwork} crime</text> </query>
 <query> <type>indri</type> <number>323</number> <text>journalistic plagiarism</text> </query>
 <query> <type>indri</type> <number>324</number> <text>argentine british {relations relation}</text> </query>
@@ -31,67 +31,67 @@
 <query> <type>indri</type> <number>326</number> <text>ferry</text> </query>
 <query> <type>indri</type> <number>327</number> <text>slavery</text> </query>
 <query> <type>indri</type> <number>328</number> <text>pope</text> </query>
-<query> <type>indri</type> <number>329</number> <text>mexican air {pollution befoulment}</text> </query>
+<query> <type>indri</type> <number>329</number> <text>mexican air {befoulment pollution}</text> </query>
 <query> <type>indri</type> <number>330</number> <text>iran iraq cooperation</text> </query>
-<query> <type>indri</type> <number>331</number> <text>{world populace} bank criticism</text> </query>
+<query> <type>indri</type> <number>331</number> <text>{populace world} bank criticism</text> </query>
 <query> <type>indri</type> <number>332</number> <text>income tax evasion</text> </query>
 <query> <type>indri</type> <number>333</number> <text>{antibiotic antibiotics} bacteria disease</text> </query>
 <query> <type>indri</type> <number>334</number> <text>export {cryptography cryptanalysis}</text> </query>
-<query> <type>indri</type> <number>335</number> <text>{adopted adoptive} biological {parent parents}</text> </query>
+<query> <type>indri</type> <number>335</number> <text>{adoptive adopted} biological {parents parent}</text> </query>
 <query> <type>indri</type> <number>336</number> <text>bear</text> </query>
 <query> <type>indri</type> <number>337</number> <text>viral hepatitis</text> </query>
 <query> <type>indri</type> <number>338</number> <text>risk of aspirin</text> </query>
-<query> <type>indri</type> <number>339</number> <text>alzheimer drug {discussion treatment}</text> </query>
-<query> <type>indri</type> <number>340</number> <text>{estate land} mine ban</text> </query>
+<query> <type>indri</type> <number>339</number> <text>alzheimer drug {treatment discussion}</text> </query>
+<query> <type>indri</type> <number>340</number> <text>{land estate} mine ban</text> </query>
 <query> <type>indri</type> <number>341</number> <text>airport security</text> </query>
 <query> <type>indri</type> <number>342</number> <text>diplomatic {ejection expulsion}</text> </query>
 <query> <type>indri</type> <number>343</number> <text>police</text> </query>
 <query> <type>indri</type> <number>344</number> <text>of e mail</text> </query>
-<query> <type>indri</type> <number>345</number> <text>{oversea abroad overseas} tobacco</text> </query>
+<query> <type>indri</type> <number>345</number> <text>{oversea overseas abroad} tobacco</text> </query>
 <query> <type>indri</type> <number>346</number> <text>educational</text> </query>
 <query> <type>indri</type> <number>347</number> <text>wildlife extinction</text> </query>
 <query> <type>indri</type> <number>348</number> <text>agoraphobia</text> </query>
-<query> <type>indri</type> <number>349</number> <text>{metamorphosis metabolism}</text> </query>
-<query> <type>indri</type> <number>350</number> <text>health and {calculator computer}</text> </query>
+<query> <type>indri</type> <number>349</number> <text>{metabolism metamorphosis}</text> </query>
+<query> <type>indri</type> <number>350</number> <text>health and {computer calculator}</text> </query>
 <query> <type>indri</type> <number>351</number> <text>falkland petroleum exploration</text> </query>
-<query> <type>indri</type> <number>352</number> <text>british chunnel {impingement impact}</text> </query>
+<query> <type>indri</type> <number>352</number> <text>british chunnel {impact impingement}</text> </query>
 <query> <type>indri</type> <number>353</number> <text>antarctica exploration</text> </query>
 <query> <type>indri</type> <number>354</number> <text>{journalist diarist}</text> </query>
 <query> <type>indri</type> <number>355</number> <text>ocean remote</text> </query>
 <query> <type>indri</type> <number>356</number> <text>postmenopausal estrogen {britain united kingdom}</text> </query>
-<query> <type>indri</type> <number>357</number> <text>{waters body of water} {challenge dispute quarrel}</text> </query>
-<query> <type>indri</type> <number>358</number> <text>blood alcohol {fatalities fatality}</text> </query>
-<query> <type>indri</type> <number>359</number> <text>{mutual reciprocal common} {investment company fund}</text> </query>
+<query> <type>indri</type> <number>357</number> <text>{waters body of water} {dispute quarrel challenge}</text> </query>
+<query> <type>indri</type> <number>358</number> <text>blood alcohol {fatality fatalities}</text> </query>
+<query> <type>indri</type> <number>359</number> <text>{mutual common reciprocal} {investment company fund}</text> </query>
 <query> <type>indri</type> <number>360</number> <text>drug legalization</text> </query>
 <query> <type>indri</type> <number>361</number> <text>clothing {sweatshop sweatshops}</text> </query>
-<query> <type>indri</type> <number>362</number> <text>{smuggling smuggle}</text> </query>
-<query> <type>indri</type> <number>363</number> <text>{exile transportation} {burrow tunnel}</text> </query>
+<query> <type>indri</type> <number>362</number> <text>{smuggle smuggling}</text> </query>
+<query> <type>indri</type> <number>363</number> <text>{transportation exile} {burrow tunnel}</text> </query>
 <query> <type>indri</type> <number>364</number> <text>rabies</text> </query>
-<query> <type>indri</type> <number>365</number> <text>{el elevated railway elevation} nino</text> </query>
+<query> <type>indri</type> <number>365</number> <text>{elevated railway el elevation} nino</text> </query>
 <query> <type>indri</type> <number>366</number> <text>{nitrile cyanide}</text> </query>
-<query> <type>indri</type> <number>367</number> <text>{piracy plagiarism}</text> </query>
+<query> <type>indri</type> <number>367</number> <text>{plagiarism piracy}</text> </query>
 <query> <type>indri</type> <number>368</number> <text>in vitro fertilization</text> </query>
 <query> <type>indri</type> <number>369</number> <text>anorexia nervosa bulimia</text> </query>
 <query> <type>indri</type> <number>370</number> <text>food drug</text> </query>
-<query> <type>indri</type> <number>371</number> <text>health {insurance policy} holistic</text> </query>
+<query> <type>indri</type> <number>371</number> <text>health {policy insurance} holistic</text> </query>
 <query> <type>indri</type> <number>372</number> <text>american casino</text> </query>
-<query> <type>indri</type> <number>373</number> <text>{encoding encryption} equipment export</text> </query>
-<query> <type>indri</type> <number>374</number> <text>nobel {prize loot}</text> </query>
+<query> <type>indri</type> <number>373</number> <text>{encryption encoding} equipment export</text> </query>
+<query> <type>indri</type> <number>374</number> <text>nobel {loot prize}</text> </query>
 <query> <type>indri</type> <number>375</number> <text>hydrogen energy</text> </query>
-<query> <type>indri</type> <number>376</number> <text>{world populace} court</text> </query>
+<query> <type>indri</type> <number>376</number> <text>{populace world} court</text> </query>
 <query> <type>indri</type> <number>377</number> <text>cigar {smoking smoke}</text> </query>
 <query> <type>indri</type> <number>378</number> <text>euro opposition</text> </query>
 <query> <type>indri</type> <number>379</number> <text>mainstreaming</text> </query>
-<query> <type>indri</type> <number>380</number> <text>{fleshiness obesity} {discussion treatment}</text> </query>
-<query> <type>indri</type> <number>381</number> <text>{music medicine}</text> </query>
+<query> <type>indri</type> <number>380</number> <text>{fleshiness obesity} {treatment discussion}</text> </query>
+<query> <type>indri</type> <number>381</number> <text>{medicine music}</text> </query>
 <query> <type>indri</type> <number>382</number> <text>hydrogen fuel {car automobiles}</text> </query>
 <query> <type>indri</type> <number>383</number> <text>illness {drugs drug}</text> </query>
-<query> <type>indri</type> <number>384</number> <text>{space outer space} station moon</text> </query>
+<query> <type>indri</type> <number>384</number> <text>{outer space space} station moon</text> </query>
 <query> <type>indri</type> <number>385</number> <text>hybrid fuel</text> </query>
-<query> <type>indri</type> <number>386</number> <text>{teach teaching} disabled</text> </query>
+<query> <type>indri</type> <number>386</number> <text>{teaching teach} disabled</text> </query>
 <query> <type>indri</type> <number>387</number> <text>radioactive waste</text> </query>
-<query> <type>indri</type> <number>388</number> <text>{soil land} enhancement</text> </query>
-<query> <type>indri</type> <number>389</number> <text>illegal {technology engineering} transfer</text> </query>
+<query> <type>indri</type> <number>388</number> <text>{land soil} enhancement</text> </query>
+<query> <type>indri</type> <number>389</number> <text>illegal {engineering technology} transfer</text> </query>
 <query> <type>indri</type> <number>390</number> <text>orphan {drugs drug}</text> </query>
 <query> <type>indri</type> <number>391</number> <text>{radius r} and {five hundred d} drug</text> </query>
 <query> <type>indri</type> <number>392</number> <text>robotics</text> </query>
@@ -99,7 +99,7 @@
 <query> <type>indri</type> <number>394</number> <text>home schooling</text> </query>
 <query> <type>indri</type> <number>395</number> <text>tourism</text> </query>
 <query> <type>indri</type> <number>396</number> <text>building syndrome</text> </query>
-<query> <type>indri</type> <number>397</number> <text>{automobile car}</text> </query>
+<query> <type>indri</type> <number>397</number> <text>{car automobile}</text> </query>
 <query> <type>indri</type> <number>398</number> <text>europe arsenal</text> </query>
 <query> <type>indri</type> <number>399</number> <text>oceanographic</text> </query>
 <query> <type>indri</type> <number>400</number> <text>amazon rain forest</text> </query>
@@ -116,31 +116,31 @@
 <query> <type>indri</type> <number>411</number> <text>{salvage salvaging} shipwreck treasure</text> </query>
 <query> <type>indri</type> <number>412</number> <text>airport security</text> </query>
 <query> <type>indri</type> <number>413</number> <text>steel production</text> </query>
-<query> <type>indri</type> <number>414</number> <text>cuba {sugar carbohydrate} {export exports}</text> </query>
+<query> <type>indri</type> <number>414</number> <text>cuba {sugar carbohydrate} {exports export}</text> </query>
 <query> <type>indri</type> <number>415</number> <text>{drugs drug} triangle</text> </query>
-<query> <type>indri</type> <number>416</number> <text>three {stick out project}</text> </query>
+<query> <type>indri</type> <number>416</number> <text>three {project stick out}</text> </query>
 <query> <type>indri</type> <number>417</number> <text>creativity</text> </query>
 <query> <type>indri</type> <number>418</number> <text>{quilts quilt} income</text> </query>
-<query> <type>indri</type> <number>419</number> <text>recycle {automobile car} {tire tires}</text> </query>
-<query> <type>indri</type> <number>420</number> <text>{carbon paper carbon} monoxide poisoning</text> </query>
+<query> <type>indri</type> <number>419</number> <text>recycle {car automobile} {tires tire}</text> </query>
+<query> <type>indri</type> <number>420</number> <text>{carbon carbon paper} monoxide poisoning</text> </query>
 <query> <type>indri</type> <number>421</number> <text>waste disposal</text> </query>
 <query> <type>indri</type> <number>422</number> <text>{art artwork} stolen</text> </query>
 <query> <type>indri</type> <number>423</number> <text>milosevic mirjana markovic</text> </query>
-<query> <type>indri</type> <number>424</number> <text>{suicide suicides}</text> </query>
-<query> <type>indri</type> <number>425</number> <text>{counterfeiting forge} money</text> </query>
-<query> <type>indri</type> <number>426</number> <text>{police law} enforcement</text> </query>
+<query> <type>indri</type> <number>424</number> <text>{suicides suicide}</text> </query>
+<query> <type>indri</type> <number>425</number> <text>{forge counterfeiting} money</text> </query>
+<query> <type>indri</type> <number>426</number> <text>{law police} enforcement</text> </query>
 <query> <type>indri</type> <number>427</number> <text>uv damage {eyes eye}</text> </query>
 <query> <type>indri</type> <number>428</number> <text>{birth parentage} {rate rates}</text> </query>
 <query> <type>indri</type> <number>429</number> <text>{legionnaire legionnaires} disease</text> </query>
 <query> <type>indri</type> <number>430</number> <text>{killer cause of death} bee</text> </query>
-<query> <type>indri</type> <number>431</number> <text>{automatic robotic} {technology engineering}</text> </query>
-<query> <type>indri</type> <number>432</number> <text>{profile profiling} {motorist motorists} police</text> </query>
+<query> <type>indri</type> <number>431</number> <text>{robotic automatic} {engineering technology}</text> </query>
+<query> <type>indri</type> <number>432</number> <text>{profiling profile} {motorist motorists} police</text> </query>
 <query> <type>indri</type> <number>433</number> <text>greek {doctrine philosophy} stoicism</text> </query>
 <query> <type>indri</type> <number>434</number> <text>estonia economy</text> </query>
-<query> <type>indri</type> <number>435</number> <text>population {growth increase}</text> </query>
-<query> <type>indri</type> <number>436</number> <text>{railroad track railway} {accident accidents}</text> </query>
+<query> <type>indri</type> <number>435</number> <text>population {increase growth}</text> </query>
+<query> <type>indri</type> <number>436</number> <text>{railroad track railway} {accidents accident}</text> </query>
 <query> <type>indri</type> <number>437</number> <text>deregulation gas electric</text> </query>
-<query> <type>indri</type> <number>438</number> <text>tourism {addition increase}</text> </query>
+<query> <type>indri</type> <number>438</number> <text>tourism {increase addition}</text> </query>
 <query> <type>indri</type> <number>439</number> <text>scientific</text> </query>
 <query> <type>indri</type> <number>440</number> <text>child {labor movement labor}</text> </query>
 <query> <type>indri</type> <number>441</number> <text>lyme disease</text> </query>
