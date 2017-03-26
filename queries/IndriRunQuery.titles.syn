@@ -3,154 +3,154 @@
 <rule>method:dirichlet,mu:1000</rule>
 <count>1000</count>
 <trecFormat>true</trecFormat>
-<query> <type>indri</type> <number>301</number> <text>{external international} {organized form mastermind unionize organize} crime</text> </query>
-<query> <type>indri</type> <number>302</number> <text>poliomyelitis and {mail post military post position} {poliomyelitis polio}</text> </query>
-<query> <type>indri</type> <number>303</number> <text>hubble telescope {achievements accomplishment}</text> </query>
-<query> <type>indri</type> <number>304</number> <text>{endanger endangered queer} {species coinage} {mammal mammals}</text> </query>
+<query> <type>indri</type> <number>301</number> <text>{international external} {form organized organize unionize mastermind} crime</text> </query>
+<query> <type>indri</type> <number>302</number> <text>poliomyelitis and {military post position mail post} {polio poliomyelitis}</text> </query>
+<query> <type>indri</type> <number>303</number> <text>hubble telescope {accomplishment achievements}</text> </query>
+<query> <type>indri</type> <number>304</number> <text>{queer endangered endanger} {coinage species} {mammals mammal}</text> </query>
 <query> <type>indri</type> <number>305</number> <text>most dangerous {fomite vehicles vehicle}</text> </query>
-<query> <type>indri</type> <number>306</number> <text>african civilian {end deaths death}</text> </query>
-<query> <type>indri</type> <number>307</number> <text>{modern fresh newfangled new raw} hydroelectric {undertaking project projects}</text> </query>
+<query> <type>indri</type> <number>306</number> <text>african civilian {end death deaths}</text> </query>
+<query> <type>indri</type> <number>307</number> <text>{newfangled raw fresh new modern} hydroelectric {undertaking project projects}</text> </query>
 <query> <type>indri</type> <number>308</number> <text>implant dentistry</text> </query>
-<query> <type>indri</type> <number>309</number> <text>{rap pat knock blame} and crime</text> </query>
-<query> <type>indri</type> <number>310</number> <text>{radio radio receiver} {wave waves} and {genius brain mind} cancer</text> </query>
+<query> <type>indri</type> <number>309</number> <text>{blame pat knock rap} and crime</text> </query>
+<query> <type>indri</type> <number>310</number> <text>{radio receiver radio} {waves wave} and {brain genius mind} cancer</text> </query>
 <query> <type>indri</type> <number>311</number> <text>industrial espionage</text> </query>
 <query> <type>indri</type> <number>312</number> <text>hydroponics</text> </query>
-<query> <type>indri</type> <number>313</number> <text>{magnetic charismatic} levitation {magnetic levitation maglev}</text> </query>
+<query> <type>indri</type> <number>313</number> <text>{charismatic magnetic} levitation {maglev magnetic levitation}</text> </query>
 <query> <type>indri</type> <number>314</number> <text>marine vegetation</text> </query>
 <query> <type>indri</type> <number>315</number> <text>unexplained highway {accident accidents}</text> </query>
 <query> <type>indri</type> <number>316</number> <text>polygamy polyandry polygyny</text> </query>
-<query> <type>indri</type> <number>317</number> <text>{unasked unsolicited} {faxes facsimile}</text> </query>
-<query> <type>indri</type> <number>318</number> <text>best retirement {nation state country area}</text> </query>
-<query> <type>indri</type> <number>319</number> <text>{modern fresh newfangled new raw} fuel {source generator reference reservoir sources informant beginning}</text> </query>
-<query> <type>indri</type> <number>320</number> <text>{submarine undersea} fiber {ocular optic} {cable television cable}</text> </query>
-<query> <type>indri</type> <number>321</number> <text>{women charwoman woman womanhood} in {fantan parliament parliaments}</text> </query>
-<query> <type>indri</type> <number>322</number> <text>{external international} {artwork art} crime</text> </query>
+<query> <type>indri</type> <number>317</number> <text>{unsolicited unasked} {facsimile faxes}</text> </query>
+<query> <type>indri</type> <number>318</number> <text>best retirement {area nation state country}</text> </query>
+<query> <type>indri</type> <number>319</number> <text>{newfangled raw fresh new modern} fuel {beginning informant reference sources reservoir source generator}</text> </query>
+<query> <type>indri</type> <number>320</number> <text>{undersea submarine} fiber {ocular optic} {cable television cable}</text> </query>
+<query> <type>indri</type> <number>321</number> <text>{womanhood women woman charwoman} in {parliament parliaments fantan}</text> </query>
+<query> <type>indri</type> <number>322</number> <text>{international external} {art artwork} crime</text> </query>
 <query> <type>indri</type> <number>323</number> <text>literary journalistic plagiarism</text> </query>
-<query> <type>indri</type> <number>324</number> <text>argentine british {relation relative relation back relations sexual intercourse}</text> </query>
-<query> <type>indri</type> <number>325</number> <text>{fad cult} {lifestyles life style}</text> </query>
+<query> <type>indri</type> <number>324</number> <text>argentine british {relation back relative sexual intercourse relation relations}</text> </query>
+<query> <type>indri</type> <number>325</number> <text>{fad cult} {life style lifestyles}</text> </query>
 <query> <type>indri</type> <number>326</number> <text>ferry {sinking sinkings}</text> </query>
-<query> <type>indri</type> <number>327</number> <text>{advanced modern mod} {bondage slavery}</text> </query>
+<query> <type>indri</type> <number>327</number> <text>{modern advanced mod} {bondage slavery}</text> </query>
 <query> <type>indri</type> <number>328</number> <text>pope {beatification blessedness beatifications}</text> </query>
-<query> <type>indri</type> <number>329</number> <text>mexican {air travel breeze air tune atmosphere} {pollution contamination befoulment}</text> </query>
+<query> <type>indri</type> <number>329</number> <text>mexican {breeze air atmosphere tune air travel} {befoulment pollution contamination}</text> </query>
 <query> <type>indri</type> <number>330</number> <text>iran iraq cooperation</text> </query>
-<query> <type>indri</type> <number>331</number> <text>{earth populace universe worldly concern world} {bank savings bank depository financial institution} criticism</text> </query>
+<query> <type>indri</type> <number>331</number> <text>{populace worldly concern universe world earth} {depository financial institution bank savings bank} criticism</text> </query>
 <query> <type>indri</type> <number>332</number> <text>income tax evasion</text> </query>
-<query> <type>indri</type> <number>333</number> <text>{antibiotic antibiotics} bacteria disease</text> </query>
-<query> <type>indri</type> <number>334</number> <text>export {control control condition dominance command restraint controls} {cryptanalysis cryptography}</text> </query>
-<query> <type>indri</type> <number>335</number> <text>{adoptive adopted} biological {parents parent}</text> </query>
-<query> <type>indri</type> <number>336</number> <text>{bootleg black} bear {attacks approach fire attack}</text> </query>
+<query> <type>indri</type> <number>333</number> <text>{antibiotics antibiotic} bacteria disease</text> </query>
+<query> <type>indri</type> <number>334</number> <text>export {command dominance restraint control condition controls control} {cryptography cryptanalysis}</text> </query>
+<query> <type>indri</type> <number>335</number> <text>{adopted adoptive} biological {parents parent}</text> </query>
+<query> <type>indri</type> <number>336</number> <text>{bootleg black} bear {fire approach attacks attack}</text> </query>
 <query> <type>indri</type> <number>337</number> <text>viral hepatitis</text> </query>
-<query> <type>indri</type> <number>338</number> <text>{hazard risk} of aspirin</text> </query>
-<query> <type>indri</type> <number>339</number> <text>alzheimer drug {treatment discussion}</text> </query>
-<query> <type>indri</type> <number>340</number> <text>{land nation country domain farming estate kingdom state} mine {ban bachelor of arts in nursing prohibition}</text> </query>
+<query> <type>indri</type> <number>338</number> <text>{risk hazard} of aspirin</text> </query>
+<query> <type>indri</type> <number>339</number> <text>alzheimer drug {discussion treatment}</text> </query>
+<query> <type>indri</type> <number>340</number> <text>{estate land domain kingdom nation farming country state} mine {prohibition bachelor of arts in nursing ban}</text> </query>
 <query> <type>indri</type> <number>341</number> <text>airport {security system security}</text> </query>
-<query> <type>indri</type> <number>342</number> <text>diplomatic {ejection expulsion extrusion}</text> </query>
-<query> <type>indri</type> <number>343</number> <text>police {end deaths death}</text> </query>
-<query> <type>indri</type> <number>344</number> <text>{maltreatment abuses abuse misuse} of e {mail chain mail}</text> </query>
-<query> <type>indri</type> <number>345</number> <text>{abroad overseas oversea} tobacco {sale sales gross sales}</text> </query>
+<query> <type>indri</type> <number>342</number> <text>diplomatic {expulsion ejection extrusion}</text> </query>
+<query> <type>indri</type> <number>343</number> <text>police {end death deaths}</text> </query>
+<query> <type>indri</type> <number>344</number> <text>{misuse maltreatment abuse abuses} of e {mail chain mail}</text> </query>
+<query> <type>indri</type> <number>345</number> <text>{abroad oversea overseas} tobacco {sales sale gross sales}</text> </query>
 <query> <type>indri</type> <number>346</number> <text>educational {standard criterion standards}</text> </query>
 <query> <type>indri</type> <number>347</number> <text>wildlife extinction</text> </query>
 <query> <type>indri</type> <number>348</number> <text>agoraphobia</text> </query>
-<query> <type>indri</type> <number>349</number> <text>{metabolism metamorphosis}</text> </query>
-<query> <type>indri</type> <number>350</number> <text>health and {calculator computer} {terminals terminal end}</text> </query>
+<query> <type>indri</type> <number>349</number> <text>{metamorphosis metabolism}</text> </query>
+<query> <type>indri</type> <number>350</number> <text>health and {calculator computer} {end terminals terminal}</text> </query>
 <query> <type>indri</type> <number>351</number> <text>falkland petroleum exploration</text> </query>
-<query> <type>indri</type> <number>352</number> <text>british chunnel {shock impingement impact}</text> </query>
+<query> <type>indri</type> <number>352</number> <text>british chunnel {impingement impact shock}</text> </query>
 <query> <type>indri</type> <number>353</number> <text>antarctica exploration</text> </query>
-<query> <type>indri</type> <number>354</number> <text>{diarist journalist} {hazard risks risk}</text> </query>
-<query> <type>indri</type> <number>355</number> <text>ocean remote {feel sensing smell sense}</text> </query>
+<query> <type>indri</type> <number>354</number> <text>{journalist diarist} {risk risks hazard}</text> </query>
+<query> <type>indri</type> <number>355</number> <text>ocean remote {smell feel sense sensing}</text> </query>
 <query> <type>indri</type> <number>356</number> <text>postmenopausal estrogen {united kingdom britain}</text> </query>
-<query> <type>indri</type> <number>357</number> <text>territorial {water amniotic fluid waters body of water urine water system} {challenge dispute quarrel}</text> </query>
-<query> <type>indri</type> <number>358</number> <text>{rake lineage blood} alcohol {fatality fatalities}</text> </query>
-<query> <type>indri</type> <number>359</number> <text>{reciprocal mutual common} {store investment company fund} {forecaster predictor predictors}</text> </query>
-<query> <type>indri</type> <number>360</number> <text>drug legalization {benefits benefit}</text> </query>
-<query> <type>indri</type> <number>361</number> <text>clothing {sweatshop sweatshops}</text> </query>
+<query> <type>indri</type> <number>357</number> <text>territorial {waters water body of water water system urine amniotic fluid} {dispute challenge quarrel}</text> </query>
+<query> <type>indri</type> <number>358</number> <text>{rake lineage blood} alcohol {fatalities fatality}</text> </query>
+<query> <type>indri</type> <number>359</number> <text>{reciprocal mutual common} {store fund investment company} {forecaster predictor predictors}</text> </query>
+<query> <type>indri</type> <number>360</number> <text>drug legalization {benefit benefits}</text> </query>
+<query> <type>indri</type> <number>361</number> <text>clothing {sweatshops sweatshop}</text> </query>
 <query> <type>indri</type> <number>362</number> <text>human {smuggle smuggling}</text> </query>
-<query> <type>indri</type> <number>363</number> <text>{fare department of transportation exile transportation system transportation} {burrow tunnel} {calamity catastrophe disaster disasters}</text> </query>
+<query> <type>indri</type> <number>363</number> <text>{department of transportation fare exile transportation system transportation} {tunnel burrow} {catastrophe calamity disaster disasters}</text> </query>
 <query> <type>indri</type> <number>364</number> <text>rabies</text> </query>
-<query> <type>indri</type> <number>365</number> <text>{elevated railway el elevation} nino</text> </query>
-<query> <type>indri</type> <number>366</number> <text>commercial {nitrile cyanide} {habit use function united states manipulation consumption uses}</text> </query>
+<query> <type>indri</type> <number>365</number> <text>{el elevation elevated railway} nino</text> </query>
+<query> <type>indri</type> <number>366</number> <text>commercial {cyanide nitrile} {manipulation united states use uses function habit consumption}</text> </query>
 <query> <type>indri</type> <number>367</number> <text>{piracy plagiarism}</text> </query>
 <query> <type>indri</type> <number>368</number> <text>in vitro fertilization</text> </query>
 <query> <type>indri</type> <number>369</number> <text>anorexia nervosa bulimia</text> </query>
 <query> <type>indri</type> <number>370</number> <text>food drug {laws jurisprudence law torah police}</text> </query>
 <query> <type>indri</type> <number>371</number> <text>health {indemnity insurance policy} holistic</text> </query>
 <query> <type>indri</type> <number>372</number> <text>native american casino</text> </query>
-<query> <type>indri</type> <number>373</number> <text>{encoding encryption} equipment export</text> </query>
-<query> <type>indri</type> <number>374</number> <text>nobel {prize loot trophy} {winner achiever winners}</text> </query>
+<query> <type>indri</type> <number>373</number> <text>{encryption encoding} equipment export</text> </query>
+<query> <type>indri</type> <number>374</number> <text>nobel {trophy prize loot} {winner winners achiever}</text> </query>
 <query> <type>indri</type> <number>375</number> <text>hydrogen {department of energy energy}</text> </query>
-<query> <type>indri</type> <number>376</number> <text>{earth populace universe worldly concern world} {court motor hotel}</text> </query>
-<query> <type>indri</type> <number>377</number> <text>cigar {smoking smoke}</text> </query>
-<query> <type>indri</type> <number>378</number> <text>euro {resistance enemy confrontation opposition}</text> </query>
+<query> <type>indri</type> <number>376</number> <text>{populace worldly concern universe world earth} {court motor hotel}</text> </query>
+<query> <type>indri</type> <number>377</number> <text>cigar {smoke smoking}</text> </query>
+<query> <type>indri</type> <number>378</number> <text>euro {confrontation enemy resistance opposition}</text> </query>
 <query> <type>indri</type> <number>379</number> <text>mainstreaming</text> </query>
-<query> <type>indri</type> <number>380</number> <text>{obesity fleshiness} {aesculapian medical} {treatment discussion}</text> </query>
+<query> <type>indri</type> <number>380</number> <text>{obesity fleshiness} {aesculapian medical} {discussion treatment}</text> </query>
 <query> <type>indri</type> <number>381</number> <text>{alternate alternative} {medicine music}</text> </query>
 <query> <type>indri</type> <number>382</number> <text>hydrogen fuel {automobiles car}</text> </query>
-<query> <type>indri</type> <number>383</number> <text>{mental genial} illness {drug drugs}</text> </query>
-<query> <type>indri</type> <number>384</number> <text>{space distance outer space quad} {station post place} {moonlight moon lunar month}</text> </query>
+<query> <type>indri</type> <number>383</number> <text>{genial mental} illness {drug drugs}</text> </query>
+<query> <type>indri</type> <number>384</number> <text>{outer space quad distance space} {place station post} {lunar month moonlight moon}</text> </query>
 <query> <type>indri</type> <number>385</number> <text>hybrid fuel {cable car car cars}</text> </query>
-<query> <type>indri</type> <number>386</number> <text>{teaching teach} disabled {child children}</text> </query>
+<query> <type>indri</type> <number>386</number> <text>{teaching teach} disabled {children child}</text> </query>
 <query> <type>indri</type> <number>387</number> <text>radioactive {waste thriftlessness barren}</text> </query>
-<query> <type>indri</type> <number>388</number> <text>{constituent organic} {land dirt territory soil} enhancement</text> </query>
+<query> <type>indri</type> <number>388</number> <text>{organic constituent} {territory soil dirt land} enhancement</text> </query>
 <query> <type>indri</type> <number>389</number> <text>illegal {technology engineering} {transfer transportation}</text> </query>
 <query> <type>indri</type> <number>390</number> <text>orphan {drug drugs}</text> </query>
-<query> <type>indri</type> <number>391</number> <text>{radius roentgen r gas constant} and {d five hundred} drug {price monetary value prices}</text> </query>
+<query> <type>indri</type> <number>391</number> <text>{radius r roentgen gas constant} and {d five hundred} drug {prices price monetary value}</text> </query>
 <query> <type>indri</type> <number>392</number> <text>robotics</text> </query>
-<query> <type>indri</type> <number>393</number> <text>{mercy clemency mercifulness} {kill toss off stamp out killing}</text> </query>
-<query> <type>indri</type> <number>394</number> <text>{dwelling base home family home plate} {school schooling}</text> </query>
+<query> <type>indri</type> <number>393</number> <text>{mercifulness clemency mercy} {killing stamp out kill toss off}</text> </query>
+<query> <type>indri</type> <number>394</number> <text>{dwelling base home home plate family} {school schooling}</text> </query>
 <query> <type>indri</type> <number>395</number> <text>tourism</text> </query>
-<query> <type>indri</type> <number>396</number> <text>{pale nauseated ghastly disgusted sick brainsick ill} {building construction} syndrome</text> </query>
-<query> <type>indri</type> <number>397</number> <text>{automobile car} {recalls recall}</text> </query>
-<query> <type>indri</type> <number>398</number> <text>{strip dismantling disassemble level} {european union europe} {armory arsenal}</text> </query>
+<query> <type>indri</type> <number>396</number> <text>{sick brainsick disgusted nauseated pale ill ghastly} {building construction} syndrome</text> </query>
+<query> <type>indri</type> <number>397</number> <text>{automobile car} {recall recalls}</text> </query>
+<query> <type>indri</type> <number>398</number> <text>{level strip dismantling disassemble} {europe european union} {armory arsenal}</text> </query>
 <query> <type>indri</type> <number>399</number> <text>oceanographic {vessel vessels}</text> </query>
 <query> <type>indri</type> <number>400</number> <text>amazon rain forest</text> </query>
-<query> <type>indri</type> <number>401</number> <text>{alien foreign extraneous} {minority minorities} germany</text> </query>
+<query> <type>indri</type> <number>401</number> <text>{extraneous foreign alien} {minority minorities} germany</text> </query>
 <query> <type>indri</type> <number>402</number> <text>behavioral genetics</text> </query>
 <query> <type>indri</type> <number>403</number> <text>osteoporosis</text> </query>
-<query> <type>indri</type> <number>404</number> <text>ireland peace {talk talks negotiation lecture}</text> </query>
-<query> <type>indri</type> <number>405</number> <text>cosmic {events event consequence}</text> </query>
+<query> <type>indri</type> <number>404</number> <text>ireland peace {negotiation talks lecture talk}</text> </query>
+<query> <type>indri</type> <number>405</number> <text>cosmic {consequence event events}</text> </query>
 <query> <type>indri</type> <number>406</number> <text>parkinson disease</text> </query>
-<query> <type>indri</type> <number>407</number> <text>{poaching poach} wildlife {conserve preserve preserves}</text> </query>
-<query> <type>indri</type> <number>408</number> <text>tropical {storm storms}</text> </query>
-<query> <type>indri</type> <number>409</number> <text>legal pan {be embody constitute equal exist cost am} 103</text> </query>
+<query> <type>indri</type> <number>407</number> <text>{poach poaching} wildlife {preserves preserve conserve}</text> </query>
+<query> <type>indri</type> <number>408</number> <text>tropical {storms storm}</text> </query>
+<query> <type>indri</type> <number>409</number> <text>legal pan {am embody constitute exist be cost equal} 103</text> </query>
 <query> <type>indri</type> <number>410</number> <text>schengen agreement</text> </query>
-<query> <type>indri</type> <number>411</number> <text>{salvage salvaging} shipwreck {gem treasure}</text> </query>
+<query> <type>indri</type> <number>411</number> <text>{salvaging salvage} shipwreck {gem treasure}</text> </query>
 <query> <type>indri</type> <number>412</number> <text>airport {security system security}</text> </query>
-<query> <type>indri</type> <number>413</number> <text>{steel sword} {production product output}</text> </query>
-<query> <type>indri</type> <number>414</number> <text>cuba {boodle sugar carbohydrate} {export exports}</text> </query>
-<query> <type>indri</type> <number>415</number> <text>{drug drugs} {fortunate aureate golden gold} {triangle triangulum}</text> </query>
-<query> <type>indri</type> <number>416</number> <text>three {gorge esophagus defile gorges} {visualize stick out plan project}</text> </query>
+<query> <type>indri</type> <number>413</number> <text>{steel sword} {output product production}</text> </query>
+<query> <type>indri</type> <number>414</number> <text>cuba {boodle carbohydrate sugar} {exports export}</text> </query>
+<query> <type>indri</type> <number>415</number> <text>{drug drugs} {golden gold aureate fortunate} {triangle triangulum}</text> </query>
+<query> <type>indri</type> <number>416</number> <text>three {defile gorges esophagus gorge} {project plan visualize stick out}</text> </query>
 <query> <type>indri</type> <number>417</number> <text>creativity</text> </query>
-<query> <type>indri</type> <number>418</number> <text>{quilt quilts} income</text> </query>
+<query> <type>indri</type> <number>418</number> <text>{quilts quilt} income</text> </query>
 <query> <type>indri</type> <number>419</number> <text>recycle {automobile car} {tire tires}</text> </query>
 <query> <type>indri</type> <number>420</number> <text>{carbon carbon paper} monoxide poisoning</text> </query>
-<query> <type>indri</type> <number>421</number> <text>industrial {waste thriftlessness barren} {administration disposal}</text> </query>
-<query> <type>indri</type> <number>422</number> <text>{artwork art} stolen {forge shape fashion forged invent}</text> </query>
+<query> <type>indri</type> <number>421</number> <text>industrial {waste thriftlessness barren} {disposal administration}</text> </query>
+<query> <type>indri</type> <number>422</number> <text>{art artwork} stolen {forge shape fashion forged invent}</text> </query>
 <query> <type>indri</type> <number>423</number> <text>milosevic mirjana markovic</text> </query>
 <query> <type>indri</type> <number>424</number> <text>{suicides suicide}</text> </query>
 <query> <type>indri</type> <number>425</number> <text>{forge counterfeiting} money</text> </query>
-<query> <type>indri</type> <number>426</number> <text>{law jurisprudence police} enforcement {cad frump frank pawl dogs andiron dog}</text> </query>
-<query> <type>indri</type> <number>427</number> <text>uv {price wrong damage} {eyes eye center}</text> </query>
-<query> <type>indri</type> <number>428</number> <text>{decline refuse declining worsen} {parturition birth parentage} {rate pace rates}</text> </query>
-<query> <type>indri</type> <number>429</number> <text>{legionnaires legionnaire} disease</text> </query>
-<query> <type>indri</type> <number>430</number> <text>{cause of death killer killer whale} bee {attacks approach fire attack}</text> </query>
-<query> <type>indri</type> <number>431</number> <text>{automatic robotic} {technology engineering}</text> </query>
-<query> <type>indri</type> <number>432</number> <text>{profile profiling} {motorists motorist} police</text> </query>
-<query> <type>indri</type> <number>433</number> <text>greek {philosophy doctrine} stoicism</text> </query>
+<query> <type>indri</type> <number>426</number> <text>{jurisprudence law police} enforcement {cad frump andiron dog frank pawl dogs}</text> </query>
+<query> <type>indri</type> <number>427</number> <text>uv {damage price wrong} {center eye eyes}</text> </query>
+<query> <type>indri</type> <number>428</number> <text>{declining refuse worsen decline} {parentage parturition birth} {rate rates pace}</text> </query>
+<query> <type>indri</type> <number>429</number> <text>{legionnaire legionnaires} disease</text> </query>
+<query> <type>indri</type> <number>430</number> <text>{killer whale killer cause of death} bee {fire approach attacks attack}</text> </query>
+<query> <type>indri</type> <number>431</number> <text>{robotic automatic} {technology engineering}</text> </query>
+<query> <type>indri</type> <number>432</number> <text>{profile profiling} {motorist motorists} police</text> </query>
+<query> <type>indri</type> <number>433</number> <text>greek {doctrine philosophy} stoicism</text> </query>
 <query> <type>indri</type> <number>434</number> <text>estonia economy</text> </query>
-<query> <type>indri</type> <number>435</number> <text>{restrict suppress control curb curbing} population {growth increase emergence}</text> </query>
+<query> <type>indri</type> <number>435</number> <text>{suppress restrict curb curbing control} population {emergence growth increase}</text> </query>
 <query> <type>indri</type> <number>436</number> <text>{railway railroad track} {accident accidents}</text> </query>
-<query> <type>indri</type> <number>437</number> <text>deregulation {flatulence natural gas gas accelerator gasoline} electric</text> </query>
+<query> <type>indri</type> <number>437</number> <text>deregulation {gasoline gas flatulence accelerator natural gas} electric</text> </query>
 <query> <type>indri</type> <number>438</number> <text>tourism {addition increase}</text> </query>
-<query> <type>indri</type> <number>439</number> <text>{inventions invention} scientific {discoveries discovery}</text> </query>
-<query> <type>indri</type> <number>440</number> <text>child {labor british labour party labor movement undertaking parturiency department of labor}</text> </query>
+<query> <type>indri</type> <number>439</number> <text>{invention inventions} scientific {discovery discoveries}</text> </query>
+<query> <type>indri</type> <number>440</number> <text>child {british labour party labor undertaking parturiency department of labor labor movement}</text> </query>
 <query> <type>indri</type> <number>441</number> <text>lyme disease</text> </query>
-<query> <type>indri</type> <number>442</number> <text>{heroic verse heroic} {acts act acts of the apostles}</text> </query>
-<query> <type>indri</type> <number>443</number> <text>us {investment investing} africa</text> </query>
+<query> <type>indri</type> <number>442</number> <text>{heroic heroic verse} {acts of the apostles acts act}</text> </query>
+<query> <type>indri</type> <number>443</number> <text>us {investing investment} africa</text> </query>
 <query> <type>indri</type> <number>444</number> <text>supercritical {fluid fluids}</text> </query>
-<query> <type>indri</type> <number>445</number> <text>{women charwoman woman womanhood} clergy</text> </query>
-<query> <type>indri</type> <number>446</number> <text>{tourist tourists} {violence ferocity}</text> </query>
-<query> <type>indri</type> <number>447</number> <text>stirling {engine locomotive}</text> </query>
-<query> <type>indri</type> <number>448</number> <text>ship {personnel casualty losings losses loss passing}</text> </query>
-<query> <type>indri</type> <number>449</number> <text>{antibiotic antibiotics} ineffectiveness</text> </query>
+<query> <type>indri</type> <number>445</number> <text>{womanhood women woman charwoman} clergy</text> </query>
+<query> <type>indri</type> <number>446</number> <text>{tourists tourist} {violence ferocity}</text> </query>
+<query> <type>indri</type> <number>447</number> <text>stirling {locomotive engine}</text> </query>
+<query> <type>indri</type> <number>448</number> <text>ship {passing loss personnel casualty losings losses}</text> </query>
+<query> <type>indri</type> <number>449</number> <text>{antibiotics antibiotic} ineffectiveness</text> </query>
 <query> <type>indri</type> <number>450</number> <text>king hussein peace</text> </query>
 </parameters>
